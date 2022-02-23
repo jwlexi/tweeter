@@ -22,5 +22,5 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+GIF IS 35 SECONDS LONG. WATCH ALL OF IT.
 <img src='http://g.recordit.co/CxaTpw8Oqk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
